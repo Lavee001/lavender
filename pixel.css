@@ -1,0 +1,103 @@
+.container{
+  width:430px;
+  height:790px;
+  margin-left: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.topic{
+  margin-left: 15px;
+  font-family:arial;
+
+}
+
+.points{
+  margin-left: 15px;
+  font-family:arial;
+}
+
+.radio{
+  margin-left: 15px;
+  font-family:arial;
+}
+
+.but{
+  margin-left: 15px;
+  font-family:arial;
+}
+
+.stars{
+  margin-left: 15px;
+  color: rgb(255, 162, 0);
+}
+
+.review{
+  margin-left: 15px;
+  width:400px;
+  font-family:arial;
+  font-size:15px;
+}
+
+.next{
+  width:400px;
+  height:40px;
+  background-color:rgb(35, 104, 216);
+  color:white;
+  border: none;
+  border-radius:3px;
+  font-family:arial;
+  font-size:18px;
+}
+
+.percentage{
+  width:80px;
+  height:23px;
+  background-color:rgb(14, 174, 70);
+  color:white;
+  border: none;
+  border-radius:50px;
+}
+
+.profile{
+  margin-left: 15px;
+  border-radius:50%;
+  width:50px;
+  display: inline;
+  float: left;
+  margin-right:7px;
+}
+
+.name{
+  margin-top:21px;
+  font-family:arial;
+  
+}
+
+.download{
+  width:400px;
+  object-fit:contain;
+  margin-bottom:250;
+  border-radius:10px;
+}
+
+.dollar1{
+  font-size: 14px;
+  margin-left: 25px;
+  margin-top: 2px;
+}
+
+.dollar2{
+  font-size: 14px;
+  margin-left: 25px;
+  margin-top: -10px;
+}
+
+.get{
+  margin-top: 20px;
+}
+
+.imej{
+  margin-top: 5px;
+  font-weight:bold;
+  color:rgb(35, 104, 216);
+}
