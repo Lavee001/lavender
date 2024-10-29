@@ -1,0 +1,79 @@
+.fname{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left:20px;
+  font-family: arial;
+}
+
+.Last{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left:20px;
+  font-family: arial;
+}
+
+.mail{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left:20px;
+  font-family: arial;
+}
+
+.Pass{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left:20px;
+  font-family: arial;
+}
+
+.confirm{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left:20px;
+  font-family: arial;
+}
+
+.but{
+  width:350px;
+  margin-top: 20px;
+  height: 40px;
+  background-color:rgb(3, 197, 133);
+  border:none;
+  color:white;
+  cursor:pointer;
+  margin-left:20px;
+  font-family: arial;
+  font-size: 15px;
+}
+
+.by{
+  width:350px;
+  font-size:13px;
+  margin-left:20px;
+  text-align: center;
+  font-family: arial;
+}
+
+.free{
+  font-size:15px;
+  margin-top: -15px;
+  margin-left:20px;
+  text-align: center;
+  font-family: arial;
+}
+
+.form{
+  width:390px;
+  height:490px;
+  background-color:rgb(246, 246, 237);
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+
+.sign{
+  margin-top: 15px;
+  margin-left:20px;
+  text-align: center;
+  color:rgb(3, 197, 133);
+  font-family: arial;
+}
+
