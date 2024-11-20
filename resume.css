@@ -1,0 +1,207 @@
+body{
+  font-family: arial;
+  color:white;
+
+}
+
+.box{
+  
+  width:1050px;
+  background-color: rgb(191, 191, 220);
+}
+
+.image{
+  width: 450px;
+  display:inline-block;
+  
+}
+
+.about{
+  display:inline-block;
+}
+
+.resume{
+  display:inline-block;
+}
+
+.projects{
+  display:inline-block;
+}
+
+.port{
+  display:inline-block;
+}
+
+.contacts{
+  display:inline-block;
+}
+
+.navbar{
+  text-decoration: none;
+  background-color: rgb(21, 2, 138);
+  list-style: none;
+  text-align: center;
+}
+
+.about-me{
+  width:550px;
+  float: right;
+  font-size: 20px;
+  margin-top: 70px;
+  line-height: 25px;
+  margin-right: 40px;
+}
+
+.img1{
+  width:230px;
+  height:230px;
+  object-fit: cover;
+  margin-left:26px;
+  border-radius:8px;
+ 
+}
+
+.img2{
+  width:230px;
+  height:230px;
+  object-fit: cover;
+  margin-left:20px;
+  border-radius:8px;
+ 
+}
+
+.img3{
+  width:230px;
+  height:230px;
+  object-fit: cover;
+  margin-left:20px;
+  border-radius:8px;
+ 
+}
+
+.img4{
+  width:230px;
+  height:230px;
+  object-fit: cover;
+  margin-left:20px;
+  border-radius:8px;
+ 
+}
+
+.boxx{
+  width:980px;
+  background-color: rgb(115, 115, 110);
+  margin-left:20px;
+  border-radius:10px;
+  padding:10px;
+
+}
+
+
+.boxxx{
+  width:440px;
+  background-color: rgb(115, 115, 110);
+  display: inline-block; 
+  padding:10px;
+  border-radius:10px;
+  margin-left:20px;
+  margin-top:25px;
+  
+
+
+}
+
+.boxxxx{
+  width:500px;
+  background-color: rgb(115, 115, 110);
+  display: inline-block; 
+  margin-left:20px;
+  margin-top:25px;
+  border-radius:10px;
+  padding:10px;
+  padding-top:44px;
+
+
+}
+
+.foot{
+  width:1050px;
+  height:130px;
+  background-color: rgb(124, 116, 116);
+  margin-top:30px
+}
+
+.con{
+  padding-top:15px;
+  margin-left:20px;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom:10px;
+  
+}
+
+.info{
+  margin-left:20px;
+  font-size: 15px;
+
+}
+
+.con2{
+  margin-right:0px;
+  font-size: 25px;
+  font-weight: bold;
+ float: right;
+ color: rgb(251, 250, 252);
+ margin-top:-90px;
+ padding-right:85px;
+  
+}
+
+.info2{
+  margin-left:20px;
+  font-size: 15px;
+  float: right;
+  padding:-0px;
+  margin-top:-50px;
+  padding-right:25px;
+
+}
+
+.h1{
+  margin-left:24px;
+}
+
+.line{
+  border: solid ;
+}
+
+.button{
+  margin-left:458px;
+}
+
+.view{
+  height:50px;
+  width:150px;
+  border-radius: 3px;
+  border-style:none;
+  background-color: rgb(51, 51, 162);
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 2px 10px 0 rgba(0, 0, 0, 0.1); 
+  cursor: pointer;     
+}
+
+.conta{
+  height:50px;
+  width:150px;
+  border-radius: 3px;
+  background-color:rgb(191, 191, 220); 
+  color: white;
+  border:2px solid rgb(51, 51, 162);
+  margin-left:13px;
+  cursor: pointer;
+  
+  
+}
+
+
+
